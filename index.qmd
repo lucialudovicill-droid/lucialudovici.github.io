@@ -1,0 +1,63 @@
+---
+title: "Home"
+---
+
+::: {.columns}
+::: {.column width="30%" style="padding-right: 40px;"}
+
+![](Profile Pic.jpeg)
+
+:::
+
+::: {.column width="70%" style="padding-left: 20px;"}
+
+# Lucia Ludovici
+
+PhD Candidate in Social and Economic Sciences  
+Curriculum: Finance and Institutions  
+Sapienza University of Rome
+
+📍 Rome, Italy  
+📧 lucia.ludovici.ll@gmail.com  
+
+:::
+:::
+
+---
+
+## About Me
+
+I am a PhD candidate at the Department of Social and Economic Sciences,
+Sapienza University of Rome.
+
+My research focuses on corporate finance, with particular attention to:
+
+- Voluntary delisting  
+- Corporate governance  
+- Board incentives and monitoring  
+- Real options and technological change  
+
+I combine theoretical modeling with empirical and simulation-based analysis.
+
+---
+
+## Research Interests
+
+- Corporate Finance  
+- Voluntary Delisting  
+- Capital Structure  
+- Governance and Board Monitoring  
+- Real Options  
+- Technological Innovation  
+
+---
+
+## Contact
+
+- Email: lucia.ludovici.ll@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/lucia-ludovici-15a799224)
+
+---
+
+```{}
+```

@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Lucia Ludovici"
+  navbar:
+    left:
+      - text: Home
+        file: index.qmd
+      - text: Research
+        file: research.qmd
+      - text: CV
+        file: cv.qmd
+      - text: Teaching
+        file: teaching.qmd
+
+  page-footer:
+    left: "© Lucia Ludovici"
+    right:
+      - text: Email
+        href: "mailto:lucia.ludovici.ll@gmail.com"
+      - text: LinkedIn
+        href: "#"
+
+format:
+  html:
+    theme: journal
+    toc: true
+    smooth-scroll: true
+    css: custom.css 
